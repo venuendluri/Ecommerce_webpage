@@ -1,0 +1,168 @@
+.image{
+    height: 60px;
+    width: 130px;
+}
+#nav1{
+    color: black;
+}
+#nav2{
+    color: black;
+}
+#nav3{
+    color: black;
+}
+#nav4{
+    color: black;
+}
+#nav5{
+    color: black;
+}
+.img1{
+    height: 100vh;
+}
+.heading{
+    color: #183b56;
+}
+.heading2{
+    color: #616c7c;
+}
+.paragraph{
+    color: #7b8794;
+}
+.image2{
+    height: 100px;
+    width: 100px;
+}
+.card1{
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: beige;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 300px;
+    
+    
+}
+.card2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    height: 50vh;
+    background-size: cover;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+   
+    
+}
+.button2{
+    color: #ff9f00;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    border-width: 1px;
+    border-style: none;
+}
+.heading3{
+    color: white;
+}
+.para{
+    color: white;
+}
+.card3{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    height: 50vh;
+    background-size: cover;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 20px; 
+}
+.heading4{
+    color: black;
+}
+.icon{
+    color: #ff9f00;
+    font-size: 20px;
+}
+.Offersection{
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+    background-size: contain;
+    
+    
+}
+.head{
+    color: #ad2167;
+}
+.bold{
+    font-weight: bold;
+    font-style: normal;
+}
+.img4{
+    height: 150px;
+    width: 150px;
+}
+.paragraph1{
+    font-size: 20px;
+    color: #959ead;
+}
+.crd{
+    background-color: white;
+    border-radius: 15px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    border-color: rgb(249, 248, 247);
+    
+}
+.deals{
+    background-color: #f5f7fa;
+}
+.img3{
+   
+    border-radius: 20px;
+}
+.height{
+    height: 40vh;
+}
+.contact{
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+.button3{
+    color: #f49541;
+    border-style: solid;
+    border-color: #f49541;
+    height: 50px;
+    font-size: 25px;
+    width: 150px;
+    background-color: transparent;
+}
+.footer{
+    background-color: #0d2436;
+    background-size: cover;
+}
+.logo1{
+    height: 100px;
+    width: 200px;
+}
+.logocard{
+    background-color: #152c3e;
+    height: 50px;
+    width: 50px;
+    border-radius: 80px;
+    color: #5a7184;
+}
+.headd {
+    font-size: 18px;
+    color: #5a7184;
+    font-family: 'roboto';
+    font-weight: 600;
+}
+.pa{
+    color: #5a7184;
+    list-style-type: none;
+}
+.line{
+    border-width: 1x;
+    border-style: solid;
+    border-color: #5a7184;
+}
